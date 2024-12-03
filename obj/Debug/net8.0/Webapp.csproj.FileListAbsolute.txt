@@ -167,3 +167,4 @@ F:\Code\Webapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.d
 F:\Code\Webapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\Code\Webapp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 F:\Code\Webapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Code\Webapp\obj\Debug\net8.0\Webapp.sourcelink.json
